@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('../fonts/GmarketSansTTFMedium.ttf') format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('../fonts/GmarketSansTTFLight.ttf') format(truetype);
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('../fonts/GmarketSansTTFBold.ttf') format(truetype);
+    font-weight: 700;
+    font-style: normal;
+}
